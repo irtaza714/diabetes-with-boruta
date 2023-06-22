@@ -1,1 +1,1 @@
-## Diabetes Prediction With Boruta Feature Selection With Oversampling using SMOTE
+## Diabetes Prediction With Boruta Feature Selection And Oversampling using SMOTE
