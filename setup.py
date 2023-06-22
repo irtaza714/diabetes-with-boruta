@@ -19,7 +19,7 @@ def get_requirements (file_path:str)-> List [str]:
 
 
 setup(
-name = 'ameshousingusingbackwardselimination',
+name = 'diabetes_prediction_with_oversampling_and_boruta_feature_selection',
 version='0.0.1',
 author= 'irtaza_ahmed',
 author_email='kaziirtaza@gmail.com',
